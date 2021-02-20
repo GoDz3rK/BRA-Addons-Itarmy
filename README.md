@@ -14,12 +14,15 @@ Thanks for understanding!
 Many of the addons in this mod are not created by us. All rights to original creators.
 
 We have the authors permissions to redistribute them for our absolutly NOT COMMERCIAL USE, only for fun.
+I take full responsibility for any unauthorized uploads (Massi looks dead)
 
+Thanks to Aspide for his work with the beautiful Pedagne and his permission:
+- [Pedagne](https://steamcommunity.com/sharedfiles/filedetails/?id=853934161)
+- [Pedagne Facebook Page](https://www.facebook.com/Pedagnemod)
 
-Thanks to...
-
-WORK IN PROGRESS
-
+Thanks to Massi for his work:
+- [ITSOF_LITE_mas](https://steamcommunity.com/sharedfiles/filedetails/?id=1141978995)
+- [ITARMY_LITE_mas](https://steamcommunity.com/sharedfiles/filedetails/?id=1658597841)
 
 # License
 

@@ -25,6 +25,10 @@ Thanks to Massi for his work:
 - [ITSOF_LITE_mas](https://steamcommunity.com/sharedfiles/filedetails/?id=1141978995)
 - [ITARMY_LITE_mas](https://steamcommunity.com/sharedfiles/filedetails/?id=1658597841)
 
+Thanks to Shaka for his work and permission:
+- [Italian SOF Gear](https://steamcommunity.com/sharedfiles/filedetails/?id=1997697797)
+- [Audax Facebook](https://www.facebook.com/AudaxMilitary/)
+
 # License
 
 We will not upload the addons and keys folder on git to avoid unauthorized redistribution. All the data are on the Steam Workshop regularized by the Steam Workshop Agreements and the GNU General Public License [(GPLv3)](https://github.com/GoDz3rK/BRA-Addons-Itarmy/blob/main/LICENSE).
